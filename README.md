@@ -39,3 +39,19 @@ you can change the startup logo bmp file kept at the path. Replace it with a bmp
 ```
 /home/pi/Desktop/cake_detection/data_log/startup_logo.bmp
 ```
+
+<br>
+
+install dependencies using
+
+```
+pip install -r /home/pi/Desktop/cake_detection/requirements.txt
+```
+
+<br>
+
+run the application using 
+
+```
+sudo python3 /home/pi/Desktop/cake_detection/main.py
+```
